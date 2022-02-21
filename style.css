@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Redressed;
+    src: url(Redressed-Regular.ttf);
+}
+.download-font{
+    font-family: 'Redressed';
+    font-size: 26px;
+}
+.link-font{
+    font-family: 'Syne Tactile', cursive;
+    font-size: 26px;
+}
